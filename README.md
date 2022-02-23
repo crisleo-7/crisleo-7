@@ -50,7 +50,6 @@
 <br>
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
   <a href="#" title="Trungquandev">
@@ -65,19 +64,15 @@
 
 <h2 align="center">I'm available on </h2>
 <br>
-<!-- https://icons8.com -->
 <div align="center">
   <a href="https://techtosmile.com/" target="blank">
-    <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="trungquandev-blog" />
+    <img width="90" height="90" src="images/logo_crisleo.jpg" alt="crisleo-blog" />
   </a>
   <a href="https://www.linkedin.com/in/%C4%91%E1%BB%97-%C4%91%E1%BB%A9c-di%E1%BB%87n-43b93715a/" target="blank">
-    <img src="images/linkedin.png" alt="crisleo-linkedin" />
+    <img width="90" height="90" src="images/linkedin.png" alt="crisleo-linkedin" />
   </a>
-  <a href="https://instagram.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
-  </a>
-  <a href="mailto:trungquandev.official@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+  <a href="mailto:crisleo.crypto@gmail.com" target="top">
+    <img width="90" height="90" src="images/email.png" alt="crisleo-email" />
   </a>
 </div>
 
