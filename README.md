@@ -80,6 +80,6 @@
 <br>
 <!-- https://github.com/shravan20/github-readme-quotes -->
 <div align="right">
-  <img src="svg/quote.svg" width="1200" alt="Click to see the source" />
+  <img src="svg/quote.svg" width="700" alt="Click to see the source" />
 </div>
 
