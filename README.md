@@ -3,7 +3,7 @@
   <img src="svg/crisleo.svg" width="1200" alt="Click to see the source" />
 </a>
 
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<h2 align="center">Technologies and Tools</h2>
 <br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
@@ -14,9 +14,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=nuxt.js&logoColor=4FC08D" alt="Nuxt.js logo" title="Nuxt.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
@@ -49,16 +47,16 @@
 
 <br>
 
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<!-- <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
 <div align=center>
-  <a href="#" title="Trungquandev">
+  <a href="#" title="crisleo">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisleo-7&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="Trungquandev">
+  <a href="#" title="crisleo">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=crisleo-7&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
-</div>
+</div> -->
 
 <br>
 
