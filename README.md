@@ -1,6 +1,6 @@
 <!-- Trungquandev -->
 <a href="#" target="_blank">
-  <iframe src="https://giphy.com/embed/QUAX6EBzkdMllNHIzE" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ElrondNetwork-egld-elrond-network-egold-QUAX6EBzkdMllNHIzE">via GIPHY</a></p>
+  <img src="https://giphy.com/embed/QUAX6EBzkdMllNHIzE"/>
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
