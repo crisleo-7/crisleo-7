@@ -80,9 +80,9 @@
 			</style>
 
 			<div class="container">
-        <div class="earth"></div>
+        <!-- <div class="earth"></div> -->
 				<div class="greeting">
-          Hi Alien!<br/>I'm Trungquandev from the Earth.
+          Hi Guys!<br/>I'm Cris Leo.
         </div>
         <div class="skills">
           <div class="skills_icon">
