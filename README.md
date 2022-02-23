@@ -80,8 +80,6 @@
 <br>
 <!-- https://github.com/shravan20/github-readme-quotes -->
 <div align="right">
-
-![Quote](The happiness of this life depends less on what befalls you than the way in which you take it. Elbert Hubbard)
-
+  <img src="svg/quote.svg" width="1200" alt="Click to see the source" />
 </div>
 
