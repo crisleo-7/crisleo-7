@@ -65,14 +65,14 @@
 <h2 align="center">I'm available on </h2>
 <br>
 <div align="center">
-  <a href="https://techtosmile.com/" target="blank">
-    <img width="90" height="90" src="images/logo_crisleo.jpg" alt="crisleo-blog" />
+  <a href="https://techtosmile.com/"  target="_blank" rel="noopener noreferrer">
+    <img width="60" height="60" src="images/logo_crisleo.jpg" alt="crisleo-blog" />
   </a>
-  <a href="https://www.linkedin.com/in/%C4%91%E1%BB%97-%C4%91%E1%BB%A9c-di%E1%BB%87n-43b93715a/" target="blank">
-    <img width="90" height="90" src="images/linkedin.png" alt="crisleo-linkedin" />
+  <a  href="https://www.linkedin.com/in/%C4%91%E1%BB%97-%C4%91%E1%BB%A9c-di%E1%BB%87n-43b93715a/" target="_blank" rel="noopener noreferrer">
+    <img width="60" height="60" src="images/linkedin.png" alt="crisleo-linkedin" />
   </a>
   <a href="mailto:crisleo.crypto@gmail.com" target="top">
-    <img width="90" height="90" src="images/email.png" alt="crisleo-email" />
+    <img width="60" height="60" src="images/email.png" alt="crisleo-email" />
   </a>
 </div>
 
