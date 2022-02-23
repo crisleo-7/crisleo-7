@@ -1,6 +1,6 @@
 <!-- Trungquandev -->
 <a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="Click to see the source" />
+  <iframe src="https://giphy.com/embed/QUAX6EBzkdMllNHIzE" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ElrondNetwork-egld-elrond-network-egold-QUAX6EBzkdMllNHIzE">via GIPHY</a></p>
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
